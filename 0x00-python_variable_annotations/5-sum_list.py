@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 from typing import List
 """
-This module holds the sum_list function
+This module holds the
+sum_list function
 """
 
 
