@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-from typing import List, Iterable, Tuple, Sequence, Union
 """
 Task 9: Let's duck type an iterable object
 """
+from typing import List, Iterable, Tuple, Sequence, Union
 
 
 def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:
